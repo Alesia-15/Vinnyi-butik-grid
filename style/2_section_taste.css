@@ -1,0 +1,36 @@
+main {
+  font-family: "Playfair Display";
+  font-style: normal;
+}
+.taste {
+  padding: 100px 10%;
+  line-height: 150%;
+  text-align: center;
+  color: #ffffff;
+  background-color: #282828;
+}
+.taste_container {
+  display: grid;
+  align-items: center;
+  border: 3px solid #c4c4c4;
+}
+.taste_line {
+  width: 160px;
+  justify-self: center;
+  border-bottom: 1px solid #ffffff;
+}
+.taste h2 {
+  margin: 0;
+  padding: 30px 10% 40px;
+  font-weight: 700;
+  font-size: 36px;
+}
+.taste_text {
+  padding: 40px 10% 50px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.taste img {
+  margin-bottom: 60px;
+  justify-self: center;
+}
